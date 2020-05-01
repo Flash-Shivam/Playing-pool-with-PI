@@ -1,0 +1,46 @@
+PLAYING POOL WITH π
+(THE NUMBER π FROM A BILLIARD POINT OF VIEW)
+
+Procedure
+Consider two point-like balls with masses m and M , M  m. The balls will move along the positive
+x-axis and collide with each other at every encounter, and the small ball, m, will reflect off a vertical
+wall located at point x = 0.
+Each collision in the system is supposed to be absolutely elastic. This means that a collision
+between the balls satisfies two mechanical laws: the law of conservation of momentum, and the law
+of conservation of kinetic energy. In addition, the small ball reflects from the wall by changing its
+velocity vector to the opposite vector. In other words, the wall can be thought of as a non-moving
+billiard ball of infinite mass.
+Let us follow the following
+
+PROCEDURE:
+1. Let N be a fixed positive whole number. Take two billiard balls with the ratio of their masses
+M/m = 100 N .
+2. Put the small ball, m, between the wall at the origin and the big ball, M .
+3. Push the big ball towards the small ball very fast .
+4. Calculate the total number of hits in the system: the number of collisions between the balls plus
+the number of reflections of the small ball from the wall.
+5. Write down the number Π of hits obtained from item #4 on a sheet of paper.
+(Note that we do not know a’priori if the number of hits is finite or infinite; we will prove it is
+finite.)
+
+
+
+
+Investigation of a particular case
+
+For different values of N the preceding Procedure gives us different values for the number Π (some
+of which could perhaps be infinity). Thus Π = Π(N ) is a function of the exponent N of the number
+100 N .
+Let us investigate the simplest case N = 0, which corresponds to the equality of the masses:
+M = m. The laws of conservation yield the following description of the system’s behavior: if one ball
+is in the static position and the other one collides with it, then after the collision, the stationary ball
+starts moving with exactly the same velocity in the same direction as the second ball moved previously,
+while the second ball stops. It looks like the moving ball penetrates through the still ball without
+changing its velocity or affecting the still ball 3 .
+Then the moving ball hits the wall and reflects from it. The ball’s velocity changes to the opposite
+one and, after that, it passes through the “transparent” ball and goes to infinity.
+As you can see, the total number of hits in the system with M = m is 3: two collisions and one
+reflection. Thus, Π(0) = 3.
+Note that 3 is the first digit of π. In what follows, the number of hits, Π, is 31 (two first digits
+of π) and 314 (three digits of π) for, respectively, M = 100m and M = 100 2 m, i.e., Π(1) = 31 and
+Π(2) = 314.
